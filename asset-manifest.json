@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/Rohit9314/React-Project-Using-RawGames-API/static/js/main.f1395092.chunk.js",
+    "main.js.map": "/Rohit9314/React-Project-Using-RawGames-API/static/js/main.f1395092.chunk.js.map",
+    "runtime-main.js": "/Rohit9314/React-Project-Using-RawGames-API/static/js/runtime-main.476e77c0.js",
+    "runtime-main.js.map": "/Rohit9314/React-Project-Using-RawGames-API/static/js/runtime-main.476e77c0.js.map",
+    "static/js/2.9f46c1fe.chunk.js": "/Rohit9314/React-Project-Using-RawGames-API/static/js/2.9f46c1fe.chunk.js",
+    "static/js/2.9f46c1fe.chunk.js.map": "/Rohit9314/React-Project-Using-RawGames-API/static/js/2.9f46c1fe.chunk.js.map",
+    "index.html": "/Rohit9314/React-Project-Using-RawGames-API/index.html",
+    "static/js/2.9f46c1fe.chunk.js.LICENSE.txt": "/Rohit9314/React-Project-Using-RawGames-API/static/js/2.9f46c1fe.chunk.js.LICENSE.txt",
+    "static/media/apple.5757c37e.svg": "/Rohit9314/React-Project-Using-RawGames-API/static/media/apple.5757c37e.svg",
+    "static/media/flower.2ec4d4fa.svg": "/Rohit9314/React-Project-Using-RawGames-API/static/media/flower.2ec4d4fa.svg",
+    "static/media/gamepad.c9269ef5.svg": "/Rohit9314/React-Project-Using-RawGames-API/static/media/gamepad.c9269ef5.svg",
+    "static/media/logo.dcefeabf.svg": "/Rohit9314/React-Project-Using-RawGames-API/static/media/logo.dcefeabf.svg",
+    "static/media/nintendo.f579be04.svg": "/Rohit9314/React-Project-Using-RawGames-API/static/media/nintendo.f579be04.svg",
+    "static/media/playstation.18cc4b9c.svg": "/Rohit9314/React-Project-Using-RawGames-API/static/media/playstation.18cc4b9c.svg",
+    "static/media/steam.d7b8819f.svg": "/Rohit9314/React-Project-Using-RawGames-API/static/media/steam.d7b8819f.svg",
+    "static/media/xbox.3e7db735.svg": "/Rohit9314/React-Project-Using-RawGames-API/static/media/xbox.3e7db735.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.476e77c0.js",
+    "static/js/2.9f46c1fe.chunk.js",
+    "static/js/main.f1395092.chunk.js"
+  ]
+}
