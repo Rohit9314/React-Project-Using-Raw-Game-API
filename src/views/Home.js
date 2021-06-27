@@ -16,7 +16,7 @@ const Home = () => {
   useEffect(() => {
     dispatch(loadGames());
   }, [dispatch]);
-  const { newGames, popular, upcomingGames, isGameLoading, searched } =
+  const { popular, upcomingGames, isGameLoading, searched } =
     useSelector((state) => state.games);
   const location = useLocation();
   const pathId = location.pathname.split("/")[2];

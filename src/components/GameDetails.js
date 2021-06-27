@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { useHistory } from "react-router-dom";
 import { resizeImage, getPlatformLogo } from "../helper";
 
-import { PS4Loader, FlowerSpinner } from "./LoadingComponent";
+import { PS4Loader } from "./LoadingComponent";
 import emptyStar from "../img/star-empty.png";
 import fullStar from "../img/star-full.png";
 
