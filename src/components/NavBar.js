@@ -50,7 +50,10 @@ const StyledNav = styled(motion.div)`
   }
   text-align: center;
   input {
-    width: 30%;
+    @media(min-width: 768px){
+      width: 30%;
+    }
+    
     font-size: 1rem;
     padding: 0.5rem;
     margin-top: 1rem;
